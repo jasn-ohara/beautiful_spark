@@ -1,1 +1,1 @@
-My notes and worked examples from the book Writing Beautifu Spark Code by Matthew Powers
+My notes and worked examples from the book Writing Beautiful Spark Code by Matthew Powers
