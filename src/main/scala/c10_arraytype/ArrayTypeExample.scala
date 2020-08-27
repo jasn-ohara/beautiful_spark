@@ -3,7 +3,7 @@ package c10_arraytype
 import utils.ExampleRunner
 import org.apache.spark.sql.functions._
 
-object ArrayType extends App with ExampleRunner  {
+object ArrayTypeExample extends App with ExampleRunner  {
   import spark.implicits._
 
   printHeader("Splitting a string into an ArrayType column")
