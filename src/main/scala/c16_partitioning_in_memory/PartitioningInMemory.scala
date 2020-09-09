@@ -38,6 +38,7 @@ object PartitioningInMemory extends App with ExampleRunner  {
     (15, "blue"),
     (99, "red"),
     (67, "blue")
+
   ).toDF("age", "color")
 
   val peopleR = people.repartition(col("color"))
