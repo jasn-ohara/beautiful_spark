@@ -1,4 +1,4 @@
-package c23_broadcasting_maps
+package c20_broadcasting_maps
 
 import utils.ExampleRunner
 

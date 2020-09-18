@@ -1,4 +1,4 @@
-package c24_validating_schemas
+package c21_validating_schemas
 
 import utils.ExampleRunner
 
